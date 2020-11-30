@@ -1,0 +1,22 @@
+h1 {
+    font-size: 36px;
+    text-align: center;
+    font-variant: small-caps;
+    background-color: #b0f18a
+}
+
+hr {
+    width: 500px;
+}
+
+li {
+    color: rgb(94, 12, 245);
+}
+
+img {
+    text-align: left;
+}
+
+p {
+    font-style: italic;
+}
